@@ -1,4 +1,4 @@
-## Hello, You can call me **Raja**
+## Hi, You can call me **Raja**
 
 I have an interest in web development and am continuously learning and improving my skills in this field
 
@@ -11,7 +11,7 @@ I have an interest in web development and am continuously learning and improving
 
 ---
 
-### 🌱 What I'm Currently Exploring
+### ⚡ What I'm Currently Exploring
 
 - Understanding how component-based frontend works using **React** & **Next.js**
 - Building better UI with **Tailwind CSS**
