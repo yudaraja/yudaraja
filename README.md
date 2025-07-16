@@ -24,6 +24,4 @@ I have an interest in web development and am continuously learning and improving
 ---
 
 Thanks for visiting!  
-Feel free to check out my <a href="https://yudaraja.github.io" target="_blank" rel="noopener noreferrer">
-portfolio website
-</a>
+Feel free to check out my [portfolio website](https://yudaraja.github.io)
