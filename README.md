@@ -1,13 +1,23 @@
-## Hi, You can call me **Raja**
+<!-- ## Welcome to my profile -->
 
-I have an interest in web development and am continuously learning and improving my skills in this field
+I’m passionate about web development and currently work with **Laravel**, **Bootstrap**, and **Tailwind CSS**. I’m learning **React** and **Next.js** to strengthen my understanding of component-based frontend development. I’m also focusing on improving my UI design skills and writing cleaner, more maintainable code.
 
----
+Thanks for visiting!  
+Feel free to check out my portfolio website at _[yudaraja.github.io](https://yudaraja.github.io)_
 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<!-- --- -->
+
+<!--
 ### 💻 What I'm Using & Learning
 
 - 🛠️ Using: **Laravel**, **Bootstrap**
 - 🚧 Learning: **React**, **Next.js**, **Tailwind CSS**
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
@@ -23,5 +33,5 @@ I have an interest in web development and am continuously learning and improving
 
 ---
 
-Thanks for visiting!  
-Feel free to check out my [portfolio website](https://yudaraja.github.io)
+Thanks for visiting!
+Feel free to check out my [portfolio website](https://yudaraja.github.io) -->
