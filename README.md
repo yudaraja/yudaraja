@@ -1,6 +1,6 @@
 <!-- ## Welcome to my profile -->
 
-I’m passionate about web development and currently work with **Laravel**, **Bootstrap**, and **Tailwind CSS**. I’m improving my frontend skills with tools like **React** and **Next.js**, and I’m also improving how I write clean and maintainable code.
+I’m passionate about web development and currently work with **Laravel**, **Bootstrap**, and **Tailwind CSS**. I’ve explored frontend technologies like **React** and **Next.js**, and I continue improving my skills through learning and experience while also improving how I write clean and maintainable code.
 
 Thanks for visiting!  
 Feel free to check out my portfolio website at _[yudaraja.github.io](https://yudaraja.github.io)_
